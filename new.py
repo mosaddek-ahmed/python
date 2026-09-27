@@ -1,4 +1,4 @@
-num=float(input("a number"))
+num=float(input("Enter a number"))
 
 if num>0:
     print("greater than zero")
